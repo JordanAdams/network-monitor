@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2015"],
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "module": "CommonJS",
+  },
+  "include": ["./src"]
+}

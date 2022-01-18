@@ -1,0 +1,13 @@
+{
+  "timestamp": "2022-01-18T23:37:33.771Z",
+  "ethernet": {
+    "upload": 1111111,
+    "download": 2222222,
+    "ping": 3333333
+  },
+  "wifi": {
+    "upload": 4444444,
+    "download": 5555555,
+    "ping": 6666666
+  }
+}
